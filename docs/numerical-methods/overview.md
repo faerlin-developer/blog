@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Leetcode
-nav_order: 2
+title: Numerical Methods
+nav_order: 3
 has_children: true
-permalink: /docs/leetcode/overview
+permalink: /docs/numerical-methods/overview
 ---
 
 # Leetcode

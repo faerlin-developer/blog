@@ -4,7 +4,7 @@ title: 724 - Find Pivot Index
 parent: Arrays and String
 grand_parent: Leetcode
 has_children: false
-permalink: /docs/leetcode/arrays-and-string/
+permalink: /docs/leetcode/arrays-and-string/742-find-pivot-index
 ---
 
 # 724 - Find Pivot Index
