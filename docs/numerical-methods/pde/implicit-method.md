@@ -50,12 +50,12 @@ and the `bnorm` and `rnorm` are given by
 
 $$
 \begin{split}
-\text{bnorm} &= \sqrt{\sum_{i,j} (\text{u}[i][j])^{2}} \\
+\text{bnorm} &= \sqrt{\sum_{(i,j) \in B} (\text{u}[i][j])^{2}} \\
 \text{rnorm} &= \sqrt{\sum_{i,j} (\text{LHS}(i,j) - \text{RHS}(i,j) )^{2}}
 \end{split}
 $$
 
-where 
+where `B` is the set of indices of the boundary cells and
 
 ```c
 LHS(i,j) = unew[i][j] - dt * (unew[i+1][j] + unew[i-1][j] + unew[i][j+1] + unew[i][j-1])
