@@ -1,13 +1,16 @@
 ---
-title: Home
+title: Table of Contents
 layout: home
 nav_order: 1
 ---
 
-You should see equations below.
+# China Trip 2025
 
-$$ c^{2} = a^{2} + b^{2} $$
+I’m so excited for our China trip in 2025! From walking along the Great Wall to meeting giant pandas in Chengdu and exploring the buzzing streets of Shanghai, it’s going to be an unforgettable adventure. Can’t wait to start this amazing journey together!
 
-$$ \int_{x=1}^{N} x^2 $$
+Below is a list of potential destinations:
 
-----
+1. [Chengdu]({% link docs/chengdu.md %})
+2. [Dunhuang]({% link docs/dunhuang.md %})
+3. [Xian]({% link docs/xian.md %})
+2. [Zhangjiajie]({% link docs/zhangjiajie.md %})
