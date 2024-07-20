@@ -10,7 +10,7 @@ permalink: /docs/chengdu
 
 ### Research Base of Giant Panda Breeding
 <p>
-    <center><img src="/assets/img/chengdu-panda-base.png" alt="drawing" width="400"/></center>
+    <center><img src="/blog/tree/main/assets/img/chengdu-panda-base.png" alt="drawing" width="400"/></center>
 </p>
 - Home to over 180 pandas. 
 - Approximately 10 km from the center of Chengdu (30 to 40 minutes by car). 
