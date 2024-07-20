@@ -10,9 +10,9 @@ permalink: /docs/dunhuang
 
 ### Thousand Buddha Grottoes (Mogao Caves)
 <p>
-<center><img src="/assets/img/mogao-caves.png" alt="drawing" width="400"/></center>
-<center><img src="/assets/img/mogao-caves-side.png" alt="drawing" width="400"/></center>
-<center><img src="/assets/img/map-mogao-caves.png" alt="drawing" width="800"/></center>
+<center><img src="assets/img/mogao-caves.png" alt="drawing" width="400"/></center>
+<center><img src="assets/img/mogao-caves-side.png" alt="drawing" width="400"/></center>
+<center><img src="assets/img/map-mogao-caves.png" alt="drawing" width="800"/></center>
 </p>
 - A man-made wonder in the Gobi desert and brilliant treasure of Buddhist arts.
 - Recommended visiting time is around 3 hours.
@@ -21,7 +21,7 @@ permalink: /docs/dunhuang
 
 ### Mingsha Mountain Crescent Lake Nature Park
 <p>
-<center><img src="/assets/img/crescent-lake.png" alt="drawing" width="400"/></center>
-<center><img src="/assets/img/sand-dunes.png" alt="drawing" width="400"/></center>
+<center><img src="assets/img/crescent-lake.png" alt="drawing" width="400"/></center>
+<center><img src="assets/img/sand-dunes.png" alt="drawing" width="400"/></center>
 </p>
 - Stunning desert scenery and take part in exciting sand dunes activities
